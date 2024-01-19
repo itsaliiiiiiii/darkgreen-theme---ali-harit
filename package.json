@@ -1,0 +1,21 @@
+{
+  "name": "darkgreen-theme---ali-harit",
+  "displayName": "DarkGreen theme - ali harit",
+  "description": "theme for all fans hhhhh ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkGreen theme - ali harit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkGreen theme - ali harit-color-theme.json"
+      }
+    ]
+  }
+}
