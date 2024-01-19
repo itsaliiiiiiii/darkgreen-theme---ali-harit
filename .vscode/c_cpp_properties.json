@@ -3,7 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
-                "/Users/its.aliiiiiiii/Desktop/Project/darkgreen-theme---ali-harit/.vscode/DarkGreen theme - ali harit-color-theme.json"
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "macFrameworkPath": [
