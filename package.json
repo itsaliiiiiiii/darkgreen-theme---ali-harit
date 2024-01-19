@@ -3,6 +3,11 @@
   "displayName": "DarkGreen theme - ali harit",
   "description": "theme for all fans hhhhh ",
   "version": "0.0.1",
+  "publisher": "darkgreen-theme---ali-harit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsaliiiiiiii/darkgreen-theme---ali-harit"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
