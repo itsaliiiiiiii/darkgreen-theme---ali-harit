@@ -1,8 +1,8 @@
 {
   "name": "darkgreen-theme---ali-harit",
-  "displayName": "DarkGreen theme - ali harit",
+  "displayName": "DarkGreen theme - Ali Harit",
   "description": "theme for all fans hhhhh ",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "darkgreen-theme---ali-harit",
   "repository": {
     "type": "git",
@@ -13,7 +13,6 @@
   },
   "keywords": [
     "theme",
-    "darkgreen-theme---ali-harit",
     "dark",
     "green",
     "ali",
@@ -23,8 +22,7 @@
     "black",
     "black theme",
     "black and green",
-    "black and green theme",
-    "black and green theme - ali harit"
+    "black and green theme"
   ],
   "categories": [
     "Themes"
