@@ -1,8 +1,8 @@
 {
-	"name": "Bluloco Light",
+	"name": "DarkGreen theme - ali harit",
 	"semanticHighlighting": true,
 	"$schema": "vscode://schemas/color-theme",
-	"type": "light",
+	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#fdfdfd",
 		"badge.background": "#528f4161",
