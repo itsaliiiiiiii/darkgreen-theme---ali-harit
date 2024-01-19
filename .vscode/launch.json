@@ -6,7 +6,7 @@
             "type": "extensionHost",
             "request": "launch",
             "args": [
-                "--extensionDevelopmentPath=${../themes/DarkGreen theme - ali harit-color-theme.json}"
+                "--extensionDevelopmentPath=${/DarkGreen theme - ali harit-color-theme.json}"
             ] 
         }
     ]
