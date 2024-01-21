@@ -33,6 +33,11 @@
         "label": "DarkGreen theme - ali harit",
         "uiTheme": "vs-dark",
         "path": "./themes/DarkGreen theme - ali harit-color-theme.json"
+      },
+      {
+        "label": "Transparent theme - ali harit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/transparentTheme.json"
       }
     ]
   }
