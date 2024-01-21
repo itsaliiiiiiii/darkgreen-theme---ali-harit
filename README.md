@@ -2,4 +2,5 @@
 
 ## theme for all fans in school :)
 
+![Alt text](img/DarkGreen.png)
 **Enjoy!**
