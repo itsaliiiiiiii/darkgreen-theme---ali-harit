@@ -1,4 +1,4 @@
-# DarkGreen theme - ali harit README
+# DarkGreen theme By ali harit
 
 ###### theme for all fans in school :)
 
