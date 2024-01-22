@@ -11,11 +11,7 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "iconThemes": {
-    "id": "my-custom-icons",
-    "label": "My Custom Icons",
-    "path": "img/icon.png"
-  },
+  "icon": "img/icon.png",
   "keywords": [
     "theme",
     "dark",
