@@ -376,6 +376,31 @@
 				"foreground": "#b9b062da"
 			}
 		},
+		{
+			"scope": [
+				"entity.name.type.class.java",
+			],
+			"settings": {
+				"foreground": "#5786a7"
+			}
+		},
+		{
+			"scope": [
+				"storage.type.primitive.java",
+			],
+			"settings": {
+				"foreground": "#5786a7"
+			}
+		},
+		{
+			"scope": [
+				"storage.modifier.java",
+				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#4aa365b6"
+			}
+		}
 	],
 	"semanticTokenColors": {
 		"operator": "#7a82da",
