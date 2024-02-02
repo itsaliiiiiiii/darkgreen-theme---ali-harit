@@ -180,7 +180,7 @@
 		{
 			"scope": [
 				"string",
-				"support.constant.font-name.css",
+				"support.constant.font-name",
 			],
 			"settings": {
 				"foreground": "#bb8a63"
@@ -196,7 +196,7 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.pseudo-class",
 			],
 			"settings": {
 				"foreground": "#c868d796"
@@ -204,7 +204,9 @@
 		},
 		{
 			"scope": [
-				"punctuation"
+				"punctuation",
+				"meta.property-name",
+				"meta.property-list",
 			],
 			"settings": {
 				"foreground": "#418f8fd2"
@@ -212,7 +214,8 @@
 		},
 		{
 			"scope": [
-				"comment"
+				"comment",
+				"keyword.control.at-rule.import.css",
 			],
 			"settings": {
 				"foreground": "#CE5A67"
@@ -295,13 +298,13 @@
 				"entity.other.attribute-name",
 			],
 			"settings": {
-				"foreground": "#e5e77cdc"
+				"foreground": "#f76d6dd7"
 			}
 		},
 		{
 			"scope": [
 				"text.html",
-				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.class",
 			],
 			"settings": {
 				"foreground": "#419197"
@@ -357,7 +360,7 @@
 		{
 			"scope": [
 				"constant.other.placeholder",
-				"support.constant.property-value.css",
+				"support.constant.property-value",
 			],
 			"settings": {
 				"foreground": "#c76565"
@@ -373,8 +376,8 @@
 		},
 		{
 			"scope": [
-				"punctuation.section.embedded.begin.php",
-				"punctuation.section.embedded.end.php"
+				"punctuation.section.embedded.begin",
+				"punctuation.section.embedded.end"
 			],
 			"settings": {
 				"foreground": "#4aa365b6"
@@ -390,8 +393,8 @@
 		},
 		{
 			"scope": [
-				"entity.name.type.class.java",
-				"constant.other.color.rgb-value.hex.css",
+				"entity.name.type.class",
+				"constant.other.color.rgb-value.hex",
 			],
 			"settings": {
 				"foreground": "#5786a7"
@@ -399,7 +402,7 @@
 		},
 		{
 			"scope": [
-				"storage.type.primitive.java",
+				"storage.type.primitive",
 			],
 			"settings": {
 				"foreground": "#5786a7"
@@ -407,7 +410,7 @@
 		},
 		{
 			"scope": [
-				"storage.modifier.java",
+				"storage.modifier",
 				"keyword.control",
 			],
 			"settings": {
