@@ -1,4 +1,4 @@
-# DarkGreen theme By ali harit
+# DarkGreen theme
 
 ###### theme for all fans in school :)
 you can download theme from this link : [DarkGreen](https://marketplace.visualstudio.com/items?itemName=darkgreen-theme---ali-harit.darkgreen-theme---ali-harit)
