@@ -1,5 +1,5 @@
 # DarkGreen theme
-![Alt text](img/icon.png)
+<img src="img/icon.png" alt="Logo" style=" height: 200px;">
 
 
 ###### theme for all fans in school :)
